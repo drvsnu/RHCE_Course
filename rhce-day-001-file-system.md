@@ -125,15 +125,3 @@ mkdir -p ~/deployments/production
 **Exam Tip:** The `-p` flag stands for **parents**. It commands Linux to automatically create any missing parent directories in the path. Without `-p`, the command will fail if the `deployments` folder doesn't already exist.
 
 ---
-
-## 🛡️ Day 1 Completion Backup Token
-
-Copy this entire response and save it as a PDF inside your Mac's `RHCE_120_Day_Course` folder.
-
-Your progress validation token for today is:
-
-```
-TOKEN: RHCE_120_DAY_01_COMPLETE
-```
-
-Run these lab steps on your Windows machine's RHEL 10 terminal, then let me know if you encountered any errors or if you are completely ready to move on to **Day 2**.
