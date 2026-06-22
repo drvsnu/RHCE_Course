@@ -91,13 +91,13 @@ pwd
 
 ## 🃏 Permanent Memory Flashcards (Copy to Anki)
 
-**Front:** What is the difference between an absolute path and a relative path in Linux?
+**Front:** What is the difference between an absolute path and a relative path in Linux? \
 **Back:** An absolute path always starts from the system root (`/`), while a relative path starts from the current working directory.
 
-**Front:** Which `ls` flags display hidden files and detailed file properties simultaneously?
+**Front:** Which `ls` flags display hidden files and detailed file properties simultaneously?\
 **Back:** `ls -la` (or `ls -l -a`).
 
-**Front:** In a directory listing, what do the `.` and `..` listings represent?
+**Front:** In a directory listing, what do the `.` and `..` listings represent?\
 **Back:** `.` represents the current working directory; `..` represents the parent directory one level up.
 
 ---
